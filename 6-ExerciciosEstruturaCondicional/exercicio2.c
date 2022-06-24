@@ -36,7 +36,6 @@ int main(){
         printf("\n");
     } else if (delta < 0) {
             printf("\nEssa equacao nao possui raizes");
-            printf("%f", delta);
         }
 
     return 0;
